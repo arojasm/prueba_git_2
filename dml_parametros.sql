@@ -1,0 +1,3 @@
+--creacion de script de parametros de la ingesta
+-- se añadiran todos los parametros requeridos
+-- Responsable : Arturo Rojas
